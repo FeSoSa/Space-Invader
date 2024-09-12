@@ -4,7 +4,8 @@ Este é o meu primeiro jogo desenvolvido na Unity, inspirado no clássico **Spac
 
 ## 🎮 Demonstração
 
-*Insira aqui uma captura de tela ou gif do jogo em ação.*
+![spaceInvader](https://github.com/user-attachments/assets/79aa9b88-66af-44a6-b2aa-9625506eee52)
+
 
 ## 🚀 Funcionalidades
 
